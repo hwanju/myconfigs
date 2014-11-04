@@ -50,7 +50,7 @@ map <c-j> <c-w>j
 map <c-h> <c-w>h
 map <c-l> <c-w>l
 
-set csprg=/usr/bin/cscope
+set csprg=cscope
 set csto=0
 set cst
 set nocsverb
